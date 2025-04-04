@@ -1,5 +1,37 @@
 # @tabler/core
 
+## 1.2.0
+
+### Minor Changes
+
+- c59bc9d: Add gradient background utilities
+- f9e4da2: Add new apps card with brand icons in navbar
+- 92a3afe: Replaced TinyMCE with HugeRTE to address license violation
+- 9bbcb99: Add theme settings wizard
+- b17b488: Add steps light colors
+- 215eaa4: Add Turbo library integration
+
+### Patch Changes
+
+- aea3b0a: Rollback accordion component structure
+- 3fc7b84: Add space between page numbers in pagination
+- 2f8a372: Add Bootstrap components to Tabler JS
+- 9fceadd: Fix tooltip colors in vector maps
+- 44250db: Update avatar size variable to support list size configuration
+- be1f3d1: Fix broken shape in South Korea flag
+- c20d076: Refactor `border-radius` in components to use CSS variables
+- 042e50f: Update disabled color variables in navbars
+- 473fa38: Apply border radius to `tom-select` on focus
+- 8646192: Add avatars page with various demos of avatars
+- 922bb03: Minor spelling and grammar improvements to emails docs
+- 44250db: Update avatar size variable to support list size configuration
+- ddcd3a7: Refactor SCSS for alerts and close button styles
+- e3d68d6: Fix `autosize` and `input mask` plugins to use window scope
+- 4846828: Fix scrollbar color mixin to use body color variable
+- 6b6617a: Improve README
+- e14e492: Fix scrollbar jumps when content is higher than screen
+- 6c566cf: Add new advanced table example
+
 ## 1.1.1
 
 ### Patch Changes
